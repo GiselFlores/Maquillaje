@@ -21,7 +21,7 @@ body {
     #Boton_1:hover {
         padding-bottom: 10px;
         background-color: red;
-        color: rgb(202, 212, 214);
+        color:black(202, 212, 214);
         border-radius: 0.8em;
         font-size: 25px;
         text-shadow:black 3px 5px 2px;
@@ -33,8 +33,169 @@ body {
         background-image: -webkit-linear-gradient(top,#2079b0, #eb94d0);
          background-image: -moz-linear-gradient(top, #2079b0, #eb94d0);
          text-decoration: none;
-         box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19);
-         
+         box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19) 
         }
+        
+        body{
+            color:black;
+            background: linear-gradient(180deg, lightcoral 20%, #eeaa99 50%, violet 100%);
+        }
+        #Boton_2{
+            padding-bottom: 10px;
+        background-color: red;
+        color: rgb(202, 212, 214);
+        border-radius: 0.8em;
+        font-size: 25px;
+        text-shadow:black 3px 5px 2px;
+        box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+        margin: 0 auto;
+        background: #eb94d0;
+         background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+         background: #2079b0;
+        background-image: -webkit-linear-gradient(top,#2079b0, #eb94d0);
+         background-image: -moz-linear-gradient(top, #2079b0, #eb94d0);
+         text-decoration: none;
+         box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19) 
+          
+        }
+         #Boton_2:hover{
+            
+            background: #eb94d0;
+         background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+         background: #2079b0;
+        background-image: -webkit-linear-gradient(top,#2079b0, #eb94d0);
+         background-image: -moz-linear-gradient(top, #2079b0, #eb94d0);
+         text-decoration: none;
+         box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19) 
+        }
+        #Boton_3{
+
+            padding-bottom: 20px;
+            background-color:palevioletred;
+            color: black;
+            border-radius: 0.8em;
+            font-size: 25px;
+            text-shadow:black 3px 5px 2px;
+            box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+             background: #eb94d0;
+             background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+             background: #2079b0;
+            background-image: -webkit-linear-gradient(top,#2079b0, #eb94d0);
+             background-image: -moz-linear-gradient(top, #2079b0, #eb94d0);
+          
+        }
+        #Boton_3:hover {
+            padding-bottom: 10px;
+            background-color: red;
+            color: rgb(202, 212, 214);
+            border-radius: 0.8em;
+            font-size: 25px;
+            text-shadow:black 3px 5px 2px;
+            box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+            margin: 0 auto;
+             background: #eb94d0;
+             background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+             background: #2079b0;
+            background-image: -webkit-linear-gradient(top,#2079b0, #eb94d0);
+             background-image: -moz-linear-gradient(top, #2079b0, #eb94d0);
+             text-decoration: none;
+             box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19) 
+            }
+            #Boton_4{
+                padding-bottom: 20px;
+            background-color:palevioletred;
+            color: black;
+            border-radius: 0.8em;
+            font-size: 25px;
+            text-shadow:black 3px 5px 2px;
+            box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+             background: #e2079d;
+             background-image: -webkit-linear-gradient(top, #e2079d,#cc6595 );
+             background: #cc6595;
+            background-image: -webkit-linear-gradient(top,#cc6595, #e2079d);
+             background-image: -moz-linear-gradient(top, #cc6595 ,#e2079d);
+          
+        }
+        #Boton_3:hover {
+        padding-bottom: 10px;
+        background-color: red;
+        color: rgb(202, 212, 214);
+        border-radius: 0.8em;
+        font-size: 25px;
+        text-shadow:black 3px 5px 2px;
+        box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+        margin: 0 auto;
+         background: #e2079d;
+         background-image: -webkit-linear-gradient(top, #e2079d, #cc6595);
+         background: #cc6595;
+        background-image: -webkit-linear-gradient(top,#cc6595, #e2079d);
+         background-image: -moz-linear-gradient(top, #cc6595, #e2079d);
+         text-decoration: none;
+         box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19) 
+        }
+        #Boton_5{
+            padding-bottom: 20px;
+        background-color:palevioletred;
+        color: black;
+        border-radius: 0.8em;
+        font-size: 25px;
+        text-shadow:black 3px 5px 2px;
+        box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+         background: #e2079d;
+         background-image: -webkit-linear-gradient(top, #e2079d,#cc6595 );
+         background: #cc6595;
+        background-image: -webkit-linear-gradient(top,#cc6595, #e2079d);
+         background-image: -moz-linear-gradient(top, #cc6595 ,#e2079d);
+      
+    }
+    #Boton_5:hover {
+    padding-bottom: 10px;
+    background-color: red;
+    color: rgb(202, 212, 214);
+    border-radius: 0.8em;
+    font-size: 25px;
+    text-shadow:black 3px 5px 2px;
+    box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+    margin: 0 auto;
+     background: #e2079d;
+     background-image: -webkit-linear-gradient(top, #e2079d, #cc6595);
+     background: #cc6595;
+    background-image: -webkit-linear-gradient(top,#cc6595, #e2079d);
+     background-image: -moz-linear-gradient(top, #cc6595, #e2079d);
+     text-decoration: none;
+     box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19) 
+    }
+    #Boton_6{
+        padding-bottom: 20px;
+    background-color:palevioletred;
+    color: black;
+    border-radius: 0.8em;
+    font-size: 25px;
+    text-shadow:black 3px 5px 2px;
+    box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+     background: #e2079d;
+     background-image: -webkit-linear-gradient(top, #e2079d,#cc6595 );
+     background: #cc6595;
+    background-image: -webkit-linear-gradient(top,#cc6595, #e2079d);
+     background-image: -moz-linear-gradient(top, #cc6595 ,#e2079d);
+  
+}
+#Boton_6:hover {
+padding-bottom: 10px;
+background-color: red;
+color: rgb(202, 212, 214);
+border-radius: 0.8em;
+font-size: 25px;
+text-shadow:black 3px 5px 2px;
+box-shadow: rgba(red, green, blue, alpha)5px 6px 4px;
+margin: 0 auto;
+ background: #e2079d;
+ background-image: -webkit-linear-gradient(top, #e2079d, #cc6595);
+ background: #cc6595;
+background-image: -webkit-linear-gradient(top,#cc6595, #e2079d);
+ background-image: -moz-linear-gradient(top, #cc6595, #e2079d);
+ text-decoration: none;
+ box-shadow: 1 8px 16px 1 rgba(0,0,0,1.19), 1 6px 20px 1 rgba(0,0,0,1.19) 
+}
     
     
